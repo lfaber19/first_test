@@ -1,0 +1,6 @@
+<? 
+$num = -555;
+$newnum =abs($num);
+echo $newnum;
+//prints "555"
+?>
